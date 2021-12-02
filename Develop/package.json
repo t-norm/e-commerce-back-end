@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "orm-challenge-ecommerce-back-end",
   "version": "1.0.0",
-  "description": "",
+  "description": "A repo intended to demonstrate skill with ORM and RESTful API concepts and built with Sequelize, Express.js and JavaScript",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/t-norm/e-commerce-back-end"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "t-norm",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
@@ -23,6 +23,6 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mysql2": "^2.1.0",
-    "sequelize": "^5.21.7"
+    "sequelize": "^6.11.0"
   }
 }
