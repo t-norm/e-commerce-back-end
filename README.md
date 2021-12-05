@@ -29,7 +29,10 @@ This repo is intended to display skill with Sequelize, Express.js, ORM, and over
 N/A; watch demo video to see functioning back end.
 
 # Usage:
-DEMO VIDEO TO BE POSTED HERE IN THE FUTURE:_______
+DEMO VIDEOS:
+Pt. I: https://watch.screencastify.com/v/2Oov4yty5q9viyBxRpIB (Setup)
+Pt. II: https://watch.screencastify.com/v/WXJQUO2u6l7zaoMA79r2 (Testing GET routes)
+Pt. III: https://watch.screencastify.com/v/L4LDZEOmkCSJu0Gs5J4B (Testing CRUD routes)
 This repo is intended for academic purposes and is a display of backend dev skills.
 
 # Contribution:
